@@ -1,0 +1,4 @@
+Model,Best Params,Train Acc,Test Acc,F1 Score,ROC AUC
+SVC,"{'SVC__C': 0.1, 'SVC__degree': 2, 'SVC__gamma': 0.4, 'SVC__kernel': 'poly', 'SVC__probability': True}",1.0,0.9511186101737282,0.9430642369510294,0.996578458130612
+DT,"{'DT__criterion': 'gini', 'DT__max_depth': 3, 'DT__min_samples_leaf': 1, 'DT__min_samples_split': 5}",0.966879435928497,0.9574178227721536,0.9561129210743604,0.9835251770104031
+KNN,"{'KNN__metric': 'manhattan', 'KNN__n_neighbors': 6, 'KNN__weights': 'uniform'}",0.9613552004224324,0.9527059117610298,0.9495566567347321,0.9902001503105099
