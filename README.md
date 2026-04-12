@@ -1,7 +1,7 @@
 # Student Stress Level Prediction
 
 ## Overview
-This project predicts student stress levels using survey and physiological data.  
+This group project predicts student stress levels using survey and physiological data.  
 It combines data preprocessing, exploratory data analysis, and machine learning to identify factors associated with stress.
 
 ## Dataset
@@ -15,7 +15,7 @@ It combines data preprocessing, exploratory data analysis, and machine learning 
 - Correlation heatmaps
 - Category-wise factor analysis
 
-## Modeling (My Contribution)
+# Modeling (My Contribution)
 I led the modeling and evaluation phase, including:
 
 - Data preprocessing (encoding, scaling, imputation)
