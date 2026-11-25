@@ -92,5 +92,5 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 ## How to Run
 1. Install dependencies from `requirements.txt`
-2. Open `stress_classification.ipynb`
+2. Open [Student Stress Level Prediction.ipynb](https://github.com/SondosAlaaeldin/student-stress-level-prediction/blob/main/Student%20Stress%20Level%20Prediction.ipynb)
 3. Run all cells
